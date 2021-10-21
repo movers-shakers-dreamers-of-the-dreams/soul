@@ -1,0 +1,3 @@
+[submodule "libs/ender"]
+	path = libs/ender
+	url = https://github.com/movers-shakers-dreamers-of-the-dreams/ender
